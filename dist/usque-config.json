@@ -1,12 +1,12 @@
 {
-  "private_key": "MHcCAQEEIP4tDgzaq5UD6Ko0GPTy/QfpPyOOEsRsQ6M6YDlYH2uloAoGCCqGSM49AwEHoUQDQgAEL8XtAXYIMDT3hxN8OepqmPduZBVdvx1/2kiL7mSbgHW9WHb3rCRoh1+ilKyYQSUOLbIULvJ/N/Bs5Tn9OaLCZA==",
+  "private_key": "MHcCAQEEIJ0n5Qd+nvlNv1VZQ7pk2u270feUjAfJMm4jq3Em4+9koAoGCCqGSM49AwEHoUQDQgAEdGm7pZuebpmamKSTAtLcSWP4hw2IJBrJPq12Je2AnZNHnARLaUCDRpHAKD5nxJfYMLEmtRsvN7iic3TCHKIYMA==",
   "endpoint_v4": "162.159.198.2",
   "endpoint_v6": "2606:4700:103::2",
   "endpoint_h2_v4": "162.159.198.2",
   "endpoint_h2_v6": "",
   "endpoint_pub_key": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEIaU7MToJm9NKp8YfGxR6r+/h4mcG\n7SxI8tsW8OR1A5tv/zCzVbCRRh2t87/kxnP6lAy0lkr7qYwu+ox+k3dr6w==\n-----END PUBLIC KEY-----\n",
-  "id": "02cc7079-e392-4754-b642-ed88569ec62b",
-  "access_token": "ada2f24c-811a-4243-bb7b-d0cd873bda23",
+  "id": "ae397ff5-dd20-4e92-8050-8e02ca6cb3de",
+  "access_token": "f4853de2-6db0-4b11-8789-82071198aa25",
   "ipv4": "172.16.0.2",
-  "ipv6": "2606:4700:110:8080:5cb8:1937:c5b4:ee78"
+  "ipv6": "2606:4700:110:8667:bdeb:34c5:64a:f774"
 }
